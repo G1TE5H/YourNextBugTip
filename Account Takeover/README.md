@@ -52,5 +52,4 @@ https://bugbountypoc.com/badoo-account-takeover/
 https://hackerone.com/reports/743545 $1000
 
 * Simple Ones
-===========
 https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24
