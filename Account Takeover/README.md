@@ -30,9 +30,13 @@ Write Ups
    * Site with no email verifications. So if you create another account with same email then you takeover another person's account.  
    * Xss + Double base64 encode3d cookie contains username and password.  
    * [TIP 4]  
+   
+------------------------
   
 * TR | Full Account Takeover via Reset Password Function  
 https://sametsahin.net/posts/account-takeover-via-reset-password/
+
+------------------------
 
 * How re-signing up for an account lead to account takeover  
 https://medium.com/@zseano/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f
@@ -40,14 +44,22 @@ https://medium.com/@zseano/how-re-signing-up-for-an-account-lead-to-account-take
     Grab id in response  
     Visit the /api/create url and…. we’re in!  
 
+------------------------
+
 * Its all in the detail email leak account takeover thanks to waybackmachine extensive  
 https://medium.com/@zseano/its-all-in-the-detail-email-leak-account-takeover-thanks-to-waybackmachine-extensive-4be365580dd7  
+
+------------------------
 
 * Cross-Site Websocket Hijacking bug in Facebook that leads to account takeover  
 https://ysamm.com/?p=363  
   
+  ------------------------
+  
 * Using CSRF I Got Weird Account Takeover  
 https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html  
+
+------------------------
 
 * Badoo takeover  
 https://bugbountypoc.com/badoo-account-takeover/  
@@ -58,10 +70,16 @@ https://bugbountypoc.com/badoo-account-takeover/
     4- FB account of ‘victim’ is replaced with FB account of ‘attacker’ (Removed from ‘attacker’ one)  
     5-Login via attacker’s FB account and you will be logged in as ‘victim’ account  
 
+------------------------
+
 * https://bugbountypoc.com/booking-token-issue/ [Tip 4]  
+
+------------------------
 
 * Bruteforcing  
 https://hackerone.com/reports/743545 $1000  
+
+------------------------
 
 * Simple Ones  
 https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24  
