@@ -2,7 +2,7 @@
 
 Payloads and Tips
 =================
-1. java`{“email”:[“victim@gmail.com”,”attacker@gmail.com”]}`
+1. `{“email”:[“victim@gmail.com”,”attacker@gmail.com”]}`
 2. `email:victim mail%0d%0acc:hacker`
 3. Forgot Password: The attacker changes the mobile number from victims to his mobile number and forwards the request. Token was attached with user
 4. [For very old sites and program might accept it] Click [Reset Password] N times
@@ -19,6 +19,18 @@ Payloads and Tips
 
 Write Ups
 =========
+* Tales of Account Takeovers (Part-1 and 2) by Vijaysimha Reddy Bathini
+(fatrat_v2)[https://twitter.com/fatrat_v2]
+   > https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
+   > https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3
+   
+   *Summary*
+   * Using `{“email”:[“victim@gmail.com”,”attacker@gmail.com”],”token”:”some random token”}`, on forward password reset link sent to both addresses.  
+   * Changing mobile number in forgot password and getting the password reset link of any user.  
+   * Site with no email verifications. So if you create another account with same email then you takeover another person's account.  
+   * Xss + Double base64 encode3d cookie contains username and password.  
+   * [TIP 4]  
+  
 * TR | Full Account Takeover via Reset Password Function  
 https://sametsahin.net/posts/account-takeover-via-reset-password/
 
