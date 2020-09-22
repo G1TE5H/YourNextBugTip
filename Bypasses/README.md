@@ -2,7 +2,7 @@
 ## Rate Limit Bypass
 
 *[Youtube's Video](https://youtu.be/it_V3ig1_4o) By [Assetnote](https://twitter.com/assetnote)*    
-*Tool: [FireProx Repo](https://github.com/ustayready/fireprox) Created By Mike Felch [@ustayready](https://twitter.com/ustayready)
+*Tool: [FireProx Repo](https://github.com/ustayready/fireprox) Created By Mike Felch [@ustayready](https://twitter.com/ustayready)*
 ```
 FireProx can bypass IP Based rate limiting using AWS. Try It
 ```
