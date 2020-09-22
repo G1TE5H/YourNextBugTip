@@ -1,6 +1,12 @@
 # Bypasses
 ## Rate Limit Bypass
 
+*[Youtube's Video](https://youtu.be/it_V3ig1_4o) By [Assetnote](https://twitter.com/assetnote)*    
+*Tool: [FireProx Repo](https://github.com/ustayready/fireprox) Created By Mike Felch [@ustayready](https://twitter.com/ustayready)
+```
+FireProx can bypass IP Based rate limiting using AWS. Try It
+```
+
 *[Tweet](https://twitter.com/ome_mishra/status/1241664059650404352) By [Ome Mishra](https://twitter.com/ome_mishra)*
 ```
 Rate limiting Bypass by X-Host: 127.0.0.1 ..
