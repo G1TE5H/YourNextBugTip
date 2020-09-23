@@ -19,6 +19,9 @@ Payloads and Tips
 
 Write Ups
 =========
+*[Tweet](https://twitter.com/krizzsk/status/1248261472838279169) By [Joel Verghese](https://twitter.com/krizzsk)*  
+![Account Takeover](./Images/EVK2z8gUYAA6cJi.png)
+
 * Tales of Account Takeovers (Part-1 and 2) by Vijaysimha Reddy Bathini
 (fatrat_v2)[https://twitter.com/fatrat_v2]
    > https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
@@ -32,6 +35,7 @@ Write Ups
    * [TIP 4]  
    
 ------------------------
+
   
 * TR | Full Account Takeover via Reset Password Function  
 https://sametsahin.net/posts/account-takeover-via-reset-password/
